@@ -1,2 +1,4 @@
 # COMP212-Assignment-2
-The second assignment for COMP212, a module about computer networks.
+My solution for the second assignment for COMP212, a module about computer networks.
+
+
